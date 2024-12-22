@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleApp</string>
+    <string name="submit_button">Submit</string>
+    <string name="hint_user_input">Enter text here</string>
+</resources>

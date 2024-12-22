@@ -1,0 +1,10 @@
+{
+  "java.project.sourcePaths": ["."],
+  "java.project.referencedLibraries": [
+    "c:\\AndroidSDK\\platforms\\android-33\\android.jar",
+    "c:\\AndroidSDK\\platforms\\android-33\\core-for-system-modules.jar",
+    "c:\\AndroidSDK\\platforms\\android-33\\uiautomator.jar",
+    "c:\\AndroidSDK\\platforms\\android-33\\android-stubs-src.jar"
+  ],
+  "java.configuration.updateBuildConfiguration": "automatic"
+}
